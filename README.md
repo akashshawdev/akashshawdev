@@ -8,7 +8,6 @@
 ### About Me
 
 - 🎓 MSc Software Engineering student in Germany
-- 🦊 Working Student in Firefox Test Engineering at Mozilla
 - 🧪 Interested in test automation, software quality, and reliable CI/CD
 - 🐍 Working with Python, Selenium, and PyTest
 - ⚙️ Learning more about browser automation and CI infrastructure
